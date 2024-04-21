@@ -30,8 +30,8 @@ General demographic data has been verified by myself. You can check by accessing
     * Norfolk Island
     * United States Minor Outlying Islands
     
-  * From which year was country population and data correctness
-  * If GDP per capita is from 2022 and data correctness
+  * If country population was from most recent year available and data correctness
+  * If GDP per capita is from most recent year available and data correctness
 
 ## Analysis starting point and insights
 
