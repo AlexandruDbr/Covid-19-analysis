@@ -16,7 +16,7 @@ The data set is a summarization (view) build from two tables, Covid Vaccinations
 The data summarized was from the reporting period: 2020.01.01 - 2023.12.31. For column meanings please consult the data dictionary attached in this repository.
 
 General demographic data has been verified by myself. You can check by accessing the link attached in data dictionary. Data verified: <br>
-  * if all countries have been listed by "Our world of data" and which countries were missing. Only 12 small islands were not analysed, which is non material for this analysis. Link of the data source: 
+  * If all countries have been listed by "Our world of data" and which countries were missing. Only 12 small islands were not analysed, which is non material for this analysis. Link of the data source: 
     * British Indian Ocean Territory
     * French Southern Territories
     * Bouvet Island
@@ -30,8 +30,8 @@ General demographic data has been verified by myself. You can check by accessing
     * Norfolk Island
     * United States Minor Outlying Islands
     
-  * country population
-  * gdp per capita
+  * From which year was country population and data correctness
+  * If GDP per capita is from 2022 and data correctness
 
 ## Analysis starting point and insights
 
