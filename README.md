@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project has arisen from a public SQL project initiative found on the internet, created by a data analyst and content creator, alias "Alex the analyst". His project idea has been focused only on data manipulation and data cleaning with SQL, however, I thought this would be a great opportunity to use tabluar data from SQL in a a visualization project by responding to a few questions which I have found relevant with regards to the COVID-19 pandemic based on the data set . <br> 
+This project has arisen from a public SQL project initiative found on the internet, created by a data analyst and content creator, alias "Alex the analyst". His project idea has been focused only on data manipulation and data cleaning with SQL,  and I decided that this is a great opportunity to use tabluar data from SQL in a a visualization project by responding to a few questions which I have found relevant with regards to the COVID-19 pandemic using Power BI. <br> 
 
 
 ###  Data set
