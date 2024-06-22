@@ -56,7 +56,7 @@ By doing this analysis I tried to answer the following questions: <br>
 * What was the total number of Covid deaths per continent? Which countries had total number of deaths >= than 8% of total continent deaths?
 * What was the number of world population, total people vaccinated with at least 1 dose, total cases and total deaths? Create 4 cards to show the results.
 
-## Analysis insights:
+### Analysis insights:
 
 Analysis insights can be found in the Power Bi file for each chart type or altogether.
 
