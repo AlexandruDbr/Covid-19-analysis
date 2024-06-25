@@ -1,0 +1,32 @@
+IMAGINE FINAL OUTCOME
+IMAGINE CAN YOU TAKE ACTION
+MEASURE THE OBSTACLES
+MEASURE YOUR FORCES. DECIDE IF YOU CAN DO IT AND HOW
+USE YOUR FORCES
+
+1. A panel which slides back when not used with filters of country, year, month.
+2. Make three sheets.
+	1. Scorecards
+	2. Demographic information
+	3. Time series analysis or by period
+
+3. What do you want to see in demographics?
+	1. Population per continent/subregion/country
+
+	2. Average PERC of male and female smokers per continent/subregion/country
+	AND
+		PERC male and female smokers per country
+	Problem 1 -> how do you make the transition between average and sum in graphs?
+		Solution -> AVG of 1 is 1, so there is not need to make two different tables.
+	Problem 2 -> In Eastern EU, northern Cyprus is in EUROPE but should be asia
+	
+	3. Population over 65 and 69 per continent/subregion/country ABS and REL
+
+	4. Average GDP per capita per continent/subregion/country.
+
+	5. Top 10 least developed countries by extreme poverty percentage per continent.
+		Show the deviation of GDP from the region average.
+	
+	Problem 1: How? What type of graph?
+	Problem 2: So what? Why is this relevant?
+	
