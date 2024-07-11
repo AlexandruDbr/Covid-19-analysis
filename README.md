@@ -42,19 +42,25 @@ The following demographic information has been verified by myself (check data di
     
   * If country population was from most recent year available and data correctness
   * If GDP per capita is from most recent year available and data correctness
+  * Population by sex https://data.worldbank.org/indicator/SP.POP.TOTL.FE.IN
 
 ## Analysis starting point and insights
 
 ### Analysis starting point
 
 By doing this analysis I tried to answer the following questions: <br>
+
+-- frame questions per page name.
+
 * Has vaccination significantly reduced the incidence rate of COVID-19 overall?
 * Which continents have an increased number of people over 69 years old? Were these countries highly impacted compared to other countries with a smaller rate of seniors?
 * How accessible were vaccines overall? Were the low income citizens provided the possibility of taking a vaccine shot?
-* What was the number of people vaccinated with at least 1 dose per continent?
+* What is the vaccination rate and infection rate per subregion and country?
 * What was the total number of Covid cases per continent? Which countries had total number of cases >= than 5% of total continent cases?
 * What was the total number of Covid deaths per continent? Which countries had total number of deaths >= than 8% of total continent deaths?
-* What was the number of world population, total people vaccinated with at least 1 dose, total cases and total deaths? Create 4 cards to show the results.
+* What was the world population in 2022?
+* Evolution of total cases and total deaths per subregion 
+* Create 4 cards to show the results.
 
 ### Analysis insights:
 
