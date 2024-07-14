@@ -15,14 +15,7 @@ SELECT
 	date,
 	total_cases,
 	total_deaths,
-	total_cases_per_million,
-	total_deaths_per_million,
-	icu_patients,
-	icu_patients_per_million,
-	hosp_patients,
-	hosp_patients_per_million,
-	weekly_hosp_admissions,
-	weekly_hosp_admissions_per_million
+	ISNULL(hosp_patients,0) AS hosp_patients
 FROM
 last_day_deaths
 WHERE
@@ -38,43 +31,6 @@ date
 
 
 
-WITH last_day_vacc 
-AS
-(SELECT 
-	*,
-	ROW_NUMBER() OVER(PARTITION BY continent, location, DATETRUNC("Month", date) ORDER BY date DESC) AS rnk
-FROM CovidVaccinations
-WHERE
-total_tests IS NOT NULL
-OR
-total_vaccinations IS NOT NULL
-)
-SELECT 
-	continent,
-	location,
-	date,
-	total_tests,
-	total_tests_per_thousand,
-	total_vaccinations,
-	people_vaccinated,
-	people_fully_vaccinated,
-	total_boosters,
-	median_age,
-	cardiovasc_death_rate,
-	diabetes_prevalence,
-	female_smokers,
-	male_smokers,
-	hospital_beds_per_thousand,
-	life_expectancy
-FROM last_day_vacc  as b
-WHERE
-YEAR(date) < 2024
-AND
-rnk = 1
-ORDER BY 
-continent,
-location,
-date
 
 
 

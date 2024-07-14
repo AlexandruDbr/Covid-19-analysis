@@ -2,30 +2,47 @@
 
 ## Overview:
 
-This project has arisen from a public SQL project initiative found on the internet, created by a data analyst and content creator "Alex the analyst". His project idea has been focused only on data manipulation and data cleaning with SQL. After I finished my own version of the project, I decided to create a SQL view based on the original dataset with a few columns that I found useful in responding to some questions with regards to the COVID-19 pandemic using Power BI. <br> 
+This project idea has arisen from a public SQL project initiative found on the internet, created by a data analyst "Alex the analyst". His project idea has been focused only on data manipulation and data cleaning with SQL. After I finished my own version of the project, I decided to create a few SQL views based on the original data set and to analyse the data using Power BI, based on a series of questions, listed below. <br> 
 
 
 ###  Data set
 
-#### Key information about the data source: <br>
-The data set source is from the page "Our world in data", which is a non-profit project by Global Change Data Lab, a non-profit organization based in the United Kingdom. "Our word of data" is maintained by researchers aiming to provide accurate data in order to make knowledge on the big problems worldwide accessible and understandable. <br> <br>
+#### Data set origins and key information about dashboard's data source: <br>
+The data set source is from a website called "Our world in data", a project created by Global Change Data Lab, a non-profit organization based in the United Kingdom. "Our word of data" is maintained by researchers from different prestigious universities aiming to provide accurate data in order to make knowledge on the big problems worldwide accessible and understandable. <br> <br>
 
-The data set is a summarization (SQL view) build from two tables, Covid Vaccinations and Covid Deaths, reported by almost all countries around the globe, from reporting period: 2020.01.01 - 2023.12.31 containing the following information:  <br>
-  * total people vaccinated and fully vaccinated, 
+The data set contains the following tables:
+
+1. A SQL view with aggregated data from the period: 2020.01.01 and 2023.12.31 reported by most of the countries around the globe. This table contains the following information: <br>
+  * total people vaccinated, 
   * boosters and doses administered,
   * total cases,
   * total deaths,
-  * country population, 
+  * country population,
   * world population, 
   * percentage of population in extreme poverty, 
   * average life expectancy, GDP per capita, 
   * percentage of people over 64 and 69, 
   * nr. of cardiovascular deaths per 100k people per country, 
   * percentage of male and female population who are smokers. <br>
- 
+
+ **Attached a .CSV version.** <br>
+* File name: "CovidVaccView.csv" 
+
+2. A SQL query containing cases, deaths and hospitalized population data at the end of month, for each month (when available) between 2020.01.01 and 2023.12.31 by continent, sub-region, country. **Attached a .CSV version.**
+* File name: "EOM deaths.csv"
+
+
+3. A .CSV file containing the population by gender in 2022. Depending on the country, population is either estimated or based on census. 
+  * File name: "Population_by_gender_UNdata_Export"
+
+4. A .CSV file containing continents, sub-regions and countries.
+  * File name: "UNSD — countries and regions.csv" <br><br>
+
+
+
  For column meanings please consult the data dictionary attached in this repository.
 
-The following demographic information has been verified by myself (check data dictionary, "description" column):
+The following data has been verified by myself. For data source checked, consult "data dictionary" table,  column "description":
   * If all countries from the world reported data to WHO and which countries were missing. Only 12 small islands did not report, which is non material for this analysis. Link of the data source: 
     * British Indian Ocean Territory
     * French Southern Territories
@@ -40,41 +57,33 @@ The following demographic information has been verified by myself (check data di
     * Norfolk Island
     * United States Minor Outlying Islands
     
-  * If country population was from most recent year available and data correctness
+  * If country population was from most recent year available and if it is accurate
   * If GDP per capita is from most recent year available and data correctness
-  * Population by sex https://data.worldbank.org/indicator/SP.POP.TOTL.FE.IN
+  * Population by gender https://data.worldbank.org/indicator/SP.POP.TOTL.FE.IN
 
-## Analysis starting point and insights
+## Analysis starting point:
 
-### Analysis starting point
+This dashboard is based on the following requirements: <br>
 
-By doing this analysis I tried to answer the following questions: <br>
+**1. "Main report" tab"**
+  * Evolution of total cases and total deaths per continent and sub-region over the period analysed
+  * How accessible were vaccines overall? Were the low income citizens provided the possibility of taking a vaccine shot?
+  * What is the vaccination rate and COVID-19 infection rate per continent and sub-region?
+  * Evolution of the nr. of hospitalisations by continent and sub-region for the entire analysed period.
+  
 
--- frame questions per page name.
+**2. "Demographics" tab**
 
-* Has vaccination significantly reduced the incidence rate of COVID-19 overall?
-* Which continents have an increased number of people over 69 years old? Were these countries highly impacted compared to other countries with a smaller rate of seniors?
-* How accessible were vaccines overall? Were the low income citizens provided the possibility of taking a vaccine shot?
-* What is the vaccination rate and infection rate per subregion and country?
-* What was the total number of Covid cases per continent? Which countries had total number of cases >= than 5% of total continent cases?
-* What was the total number of Covid deaths per continent? Which countries had total number of deaths >= than 8% of total continent deaths?
-* What was the world population in 2022?
-* Evolution of total cases and total deaths per subregion 
-* Create 4 cards to show the results.
+  * Create a map which shows population over 64 years old. Highlight with red the countries where the % of population over 64 is higher than the continent average, and with green when is lower than the average.
+  * Create a chart to show the percentage of smokers by gender, continent and sub-region.
+  * Create a chart to show the population by gender, continent and sub-region.
+  * Create a chart to show the deaths due to cardiovascular diseases by continent and sub-region.
+  * Create a chart to show extreme poverty rate by continent and sub-region.
 
-### Analysis insights:
+**3. "Scorecards" tab**
 
-Analysis insights can be found in the Power Bi file for each chart type or altogether.
+* Create a matrix to show Year on Year variantion of cases and deaths per continent, sub-region, country.
+* Create a chart to show the countries which registered more than than 5% of total cases per continent.
+* Create a chart to show the countries which registered more than 8% of total deaths per continent.
+* Create a chart to show top 10 countries with most vaccinated citizens per continent.
 
-## Requirements
-
-To use this PowerBI dashboard, you will need:
-
-* Microsoft PowerBI Desktop installed on your computer.
-* Access to data source from GitHub or PowerBI service link.
-* Basic understanding of PowerBI to navigate and interact with the dashboard. 
-
-## Future posible enhancements
-
-* A more detailed analysis based on time series by day, month, year evolution in cases, vaccinations and deaths.
-* An analysis of cases and deaths based on other demographic information such as: population density per sq meter, percentage of cardiovascular deaths per country and/or continent, number of hospitals, number of beds per intensive care units.

@@ -1,0 +1,277 @@
+Country code,Country or Area,Year,Sex,Record Type,Reliability,Value,Value Footnotes
+AFG,Afghanistan,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,679,394.00",1
+AFG,Afghanistan,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,083,442.00",1
+ALB,Albania,2022,Male,Estimate - de jure,"Final figure, complete","1,387,060.00",
+ALB,Albania,2022,Female,Estimate - de jure,"Final figure, complete","1,406,532.00",
+ASM,American Samoa,2022,Male,Estimate - de jure,"Final figure, complete","25,209.00",3
+ASM,American Samoa,2022,Female,Estimate - de jure,"Final figure, complete","26,060.00",3
+AND,Andorra,2022,Male,Estimate - de jure,"Final figure, complete","40,731.00",2
+AND,Andorra,2022,Female,Estimate - de jure,"Final figure, complete","38,804.00",2
+AGO,Angola,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,147,645.00",4
+AGO,Angola,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,938,633.00",4
+ARG,Argentina,2022,Male,Estimate - de facto,"Final figure, complete","22,709,478.00",5
+ARG,Argentina,2022,Female,Estimate - de facto,"Final figure, complete","23,525,352.00",5
+AUS,Australia,2022,Male,Estimate - de jure,Provisional figure,"12,892,230.00",6
+AUS,Australia,2022,Female,Estimate - de jure,Provisional figure,"13,086,705.00",6
+AUT,Austria,2022,Male,Estimate - de jure,"Final figure, complete","4,425,485.00",
+AUT,Austria,2022,Female,Estimate - de jure,"Final figure, complete","4,553,444.00",
+AZE,Azerbaijan,2022,Male,Estimate - de jure,"Final figure, complete","5,074,520.00",
+AZE,Azerbaijan,2022,Female,Estimate - de jure,"Final figure, complete","5,081,846.00",
+BHS,Bahamas,2022,Male,Census - de jure - complete tabulation,Provisional figure,"192,544.00",
+BHS,Bahamas,2022,Female,Census - de jure - complete tabulation,Provisional figure,"206,770.00",
+BGD,Bangladesh,2022,Male,Census - de facto - complete tabulation,"Final figure, complete","84,077,203.00","7,8"
+BGD,Bangladesh,2022,Female,Census - de facto - complete tabulation,"Final figure, complete","85,653,120.00","7,8"
+BEL,Belgium,2022,Male,Estimate - de jure,"Final figure, complete","5,733,645.00",
+BEL,Belgium,2022,Female,Estimate - de jure,"Final figure, complete","5,883,978.00",
+BLZ,Belize,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","220,739.00",
+BLZ,Belize,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","220,732.00",
+BMU,Bermuda,2022,Male,Estimate - de jure,"Final figure, complete","30,763.00",9
+BMU,Bermuda,2022,Female,Estimate - de jure,"Final figure, complete","33,268.00",9
+BTN,Bhutan,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","397,731.00",10
+BTN,Bhutan,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","365,518.00",10
+BOL,Bolivia,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","6,023,201.00",4
+BOL,Bolivia,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","5,982,830.00",4
+BWA,Botswana,2022,Male,Census - de facto - complete tabulation,"Final figure, complete","1,188,544.40",
+BWA,Botswana,2022,Female,Census - de facto - complete tabulation,"Final figure, complete","1,209,006.00",
+BRA,Brazil,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","104,990,487.00","11,12"
+BRA,Brazil,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","109,838,053.00","11,12"
+BGR,Bulgaria,2022,Male,Estimate - de jure,"Final figure, complete","3,311,311.00",
+BGR,Bulgaria,2022,Female,Estimate - de jure,"Final figure, complete","3,527,626.00",
+BFA,Burkina Faso,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","10,725,036.00",13
+BFA,Burkina Faso,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","11,460,618.00",13
+BDI,Burundi,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","6,340,131.00",
+BDI,Burundi,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","6,497,222.00",
+KHM,Cambodia,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","8,225,325.00",14
+KHM,Cambodia,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","8,618,008.00",14
+CMR,Cameroon,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","13,524,925.00",15
+CMR,Cameroon,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","13,894,212.00",15
+CAN,Canada,2022,Male,Estimate - de jure,"Final figure, complete","19,357,704.00","16,17,18"
+CAN,Canada,2022,Female,Estimate - de jure,"Final figure, complete","19,572,198.00","16,17,18"
+CHL,Chile,2022,Male,Estimate - de facto,"Final figure, complete","9,782,978.00",
+CHL,Chile,2022,Female,Estimate - de facto,"Final figure, complete","10,045,585.00",
+CHN,China,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","722,060,000.00","19,20"
+CHN,China,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","689,690,000.00","19,20"
+HKG,Hong Kong,2022,Male,Estimate - de jure,"Final figure, complete","3,354,500.00",
+HKG,Hong Kong,2022,Female,Estimate - de jure,"Final figure, complete","3,991,600.00",
+MAC,Macao,2022,Male,Estimate - de jure,"Final figure, complete","318,500.00",
+MAC,Macao,2022,Female,Estimate - de jure,"Final figure, complete","358,800.00",
+COL,Colombia,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","25,230,139.00",21
+COL,Colombia,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","26,452,553.00",21
+CRI,Costa Rica,2022,Male,Estimate - de jure,"Final figure, complete","2,487,111.00",22
+CRI,Costa Rica,2022,Female,Estimate - de jure,"Final figure, complete","2,726,369.00",22
+HRV,Croatia,2022,Male,Estimate - de jure,"Final figure, complete","1,862,293.00",
+HRV,Croatia,2022,Female,Estimate - de jure,"Final figure, complete","2,000,012.00",
+CUB,Cuba,2022,Male,Estimate - de jure,"Final figure, complete","5,505,974.50",
+CUB,Cuba,2022,Female,Estimate - de jure,"Final figure, complete","5,595,388.50",
+CUW,Curacao,2022,Male,Estimate - de jure,Provisional figure,"68,656.00",4
+CUW,Curacao,2022,Female,Estimate - de jure,Provisional figure,"82,410.00",4
+CYP,Cyprus,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","441,083.00",23
+CYP,Cyprus,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","463,622.00",23
+CZE,Czechia,2022,Male,Estimate - de jure,"Final figure, complete","5,183,775.00",
+CZE,Czechia,2022,Female,Estimate - de jure,"Final figure, complete","5,332,932.00",
+DNK,Denmark,2022,Male,Estimate - de jure,"Final figure, complete","2,922,915.00","2,24"
+DNK,Denmark,2022,Female,Estimate - de jure,"Final figure, complete","2,950,505.00","2,24"
+DOM,Dominican Republic,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","5,301,077.00",13
+DOM,Dominican Republic,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","5,320,861.00",13
+ECU,Ecuador,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","9,011,310.50","25,26"
+ECU,Ecuador,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","9,080,736.50","25,26"
+EGY,Egypt,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","53,296,801.00",
+EGY,Egypt,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","50,308,238.00",
+SLV,El Salvador,2022,Male,Estimate - de jure,"Final figure, complete","2,957,002.00","27,28"
+SLV,El Salvador,2022,Female,Estimate - de jure,"Final figure, complete","3,373,945.00","27,28"
+GNQ,Equatorial Guinea,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","816,475.92",29
+GNQ,Equatorial Guinea,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","741,684.23",29
+ERI,Eritrea,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","1,790,573.26",30
+ERI,Eritrea,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","1,849,626.07",30
+EST,Estonia,2022,Male,Estimate - de jure,"Final figure, complete","633,415.00",
+EST,Estonia,2022,Female,Estimate - de jure,"Final figure, complete","698,381.00",
+ETH,Ethiopia,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","52,649,219.00",31
+ETH,Ethiopia,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","52,378,893.00",31
+FJI,Fiji,2022,Male,Estimate - de facto,"Final figure, complete","454,147.00",
+FJI,Fiji,2022,Female,Estimate - de facto,"Final figure, complete","441,269.00",
+FIN,Finland,2022,Male,Estimate - de jure,"Final figure, complete","2,743,101.00",2
+FIN,Finland,2022,Female,Estimate - de jure,"Final figure, complete","2,805,140.00",2
+FRA,France,2022,Male,Estimate - de jure,"Final figure, complete","31,789,923.00",32
+FRA,France,2022,Female,Estimate - de jure,"Final figure, complete","33,856,914.00",32
+GUF,French Guiana,2022,Male,Estimate - de jure,Provisional figure,"143,799.00",
+GUF,French Guiana,2022,Female,Estimate - de jure,Provisional figure,"153,230.00",
+GEO,Georgia,2022,Male,Estimate - de jure,"Final figure, complete","1,769,995.00",33
+GEO,Georgia,2022,Female,Estimate - de jure,"Final figure, complete","1,918,652.00",33
+DEU,Germany,2022,Male,Estimate - de jure,"Final figure, complete","41,066,785.00",34
+DEU,Germany,2022,Female,Estimate - de jure,"Final figure, complete","42,170,339.00",34
+GRC,Greece,2022,Male,Estimate - de facto,"Final figure, complete","5,114,747.00",35
+GRC,Greece,2022,Female,Estimate - de facto,"Final figure, complete","5,345,035.00",35
+GRL,Greenland,2022,Male,Estimate - de jure,"Final figure, complete","29,876.00",2
+GRL,Greenland,2022,Female,Estimate - de jure,"Final figure, complete","26,785.00",2
+GLP,Guadeloupe,2022,Male,Estimate - de jure,"Final figure, complete","171,961.00",36
+GLP,Guadeloupe,2022,Female,Estimate - de jure,"Final figure, complete","205,200.00",36
+GTM,Guatemala,2022,Male,Estimate - de jure,"Final figure, complete","8,540,466.00",
+GTM,Guatemala,2022,Female,Estimate - de jure,"Final figure, complete","8,817,420.00",
+GGY,Guernsey,2022,Male,Estimate - de jure,"Final figure, complete","31,515.00",
+GGY,Guernsey,2022,Female,Estimate - de jure,"Final figure, complete","32,196.00",
+GIN,Guinea,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","6,442,343.00","4,37"
+GIN,Guinea,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","6,819,296.00","4,37"
+GNB,Guinea-Bissau,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","825,147.00",13
+GNB,Guinea-Bissau,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","842,762.00",13
+HND,Honduras,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","4,669,869.00",38
+HND,Honduras,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","4,927,870.00",38
+HUN,Hungary,2022,Male,Estimate - de jure,"Final figure, complete","4,644,875.00",35
+HUN,Hungary,2022,Female,Estimate - de jure,"Final figure, complete","5,044,135.00",35
+ISL,Iceland,2022,Male,Estimate - de jure,"Final figure, complete","193,095.00",39
+ISL,Iceland,2022,Female,Estimate - de jure,"Final figure, complete","183,153.00",39
+IDN,Indonesia,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","139,389,100.00",40
+IDN,Indonesia,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","136,384,674.00",40
+IRN,Iran,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","42,772,916.00",41
+IRN,Iran,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","41,927,160.00",41
+IRL,Ireland,2022,Male,Estimate - de jure,"Final figure, complete","2,503,707.00",35
+IRL,Ireland,2022,Female,Estimate - de jure,"Final figure, complete","2,556,297.00",35
+IMN,Isle of Man,2022,Male,Estimate - de jure,"Final figure, complete","41,641.00",
+IMN,Isle of Man,2022,Female,Estimate - de jure,"Final figure, complete","42,428.00",
+ITA,Italy,2022,Male,Estimate - de jure,"Final figure, complete","28,818,956.00",4
+ITA,Italy,2022,Female,Estimate - de jure,"Final figure, complete","30,211,177.00",4
+JPN,Japan,2022,Male,Estimate - de jure,"Final figure, complete","60,832,000.00","42,43,44"
+JPN,Japan,2022,Female,Estimate - de jure,"Final figure, complete","64,293,000.00","42,43,44"
+JOR,Jordan,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","5,984,000.00",45
+JOR,Jordan,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","5,318,000.00",45
+KAZ,Kazakhstan,2022,Male,Estimate - de facto,"Final figure, complete","9,580,742.50",46
+KAZ,Kazakhstan,2022,Female,Estimate - de facto,"Final figure, complete","10,054,240.50",46
+KEN,Kenya,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","25,104,153.75",47
+KEN,Kenya,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","25,518,759.84",47
+KWT,Kuwait,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","2,505,146.00",
+KWT,Kuwait,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","1,711,754.00",
+LAO,Laos,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","3,728,475.00",29
+LAO,Laos,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","3,714,319.00",29
+LIE,Liechtenstein,2022,Male,Estimate - de jure,"Final figure, complete","19,496.00",
+LIE,Liechtenstein,2022,Female,Estimate - de jure,"Final figure, complete","19,812.00",
+LTU,Lithuania,2022,Male,Estimate - de jure,"Final figure, complete","1,306,599.00",35
+LTU,Lithuania,2022,Female,Estimate - de jure,"Final figure, complete","1,499,399.00",35
+LUX,Luxembourg,2022,Male,Estimate - de jure,"Final figure, complete","328,718.00",
+LUX,Luxembourg,2022,Female,Estimate - de jure,"Final figure, complete","320,333.00",
+MWI,Malawi,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","9,379,829.00",13
+MWI,Malawi,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","9,972,063.00",13
+MYS,Malaysia,2022,Male,Estimate - de jure,Provisional figure,"16,999,524.00",48
+MYS,Malaysia,2022,Female,Estimate - de jure,Provisional figure,"15,652,033.15",48
+MDV,Maldives,2022,Male,Census - de facto - complete tabulation,"Final figure, complete","311,994.00",49
+MDV,Maldives,2022,Female,Census - de facto - complete tabulation,"Final figure, complete","203,138.00",49
+MLT,Malta,2022,Male,Estimate - de jure,"Final figure, complete","270,066.00",50
+MLT,Malta,2022,Female,Estimate - de jure,"Final figure, complete","250,905.00",50
+MTQ,Martinique,2022,Male,Estimate - de jure,Provisional figure,"159,162.00",
+MTQ,Martinique,2022,Female,Estimate - de jure,Provisional figure,"191,853.00",
+MUS,Mauritius,2022,Male,Estimate - de jure,"Final figure, complete","623,787.00","34,35,51"
+MUS,Mauritius,2022,Female,Estimate - de jure,"Final figure, complete","638,462.00","34,35,51"
+MYT,Mayotte,2022,Male,Estimate - de jure,Provisional figure,"142,515.00",
+MYT,Mayotte,2022,Female,Estimate - de jure,Provisional figure,"156,507.00",
+MEX,Mexico,2022,Male,Estimate - de jure,"Final figure, complete","63,692,767.00",52
+MEX,Mexico,2022,Female,Estimate - de jure,"Final figure, complete","66,425,589.00",52
+MNG,Mongolia,2022,Male,Estimate - de facto,"Final figure, complete","1,685,113.00",
+MNG,Mongolia,2022,Female,Estimate - de facto,"Final figure, complete","1,748,635.00",
+MNE,Montenegro,2022,Male,Estimate - de jure,"Final figure, complete","305,174.00",35
+MNE,Montenegro,2022,Female,Estimate - de jure,"Final figure, complete","312,509.00",35
+MSR,Montserrat,2022,Male,Estimate - de jure,"Final figure, complete","2,187.00",
+MSR,Montserrat,2022,Female,Estimate - de jure,"Final figure, complete","2,246.00",
+MAR,Morocco,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","18,263,902.00",53
+MAR,Morocco,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","18,406,314.00",53
+MOZ,Mozambique,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","15,279,669.00",54
+MOZ,Mozambique,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,336,409.00",54
+MMR,Myanmar,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","26,661,371.00",33
+MMR,Myanmar,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","29,108,861.00",33
+NAM,Namibia,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","1,262,626.00",34
+NAM,Namibia,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","1,333,411.00",34
+NLD,Netherlands,2022,Male,Estimate - de jure,"Final figure, complete","8,745,468.00",
+NLD,Netherlands,2022,Female,Estimate - de jure,"Final figure, complete","8,845,204.00",
+NZL,New Zealand,2022,Male,Estimate - de jure,Provisional figure,"2,542,800.00","4,42"
+NZL,New Zealand,2022,Female,Estimate - de jure,Provisional figure,"2,581,200.00","4,42"
+NIC,Nicaragua,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","3,322,602.00",
+NIC,Nicaragua,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","3,411,161.00",
+NER,Niger,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","12,158,366.00",55
+NER,Niger,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","12,305,010.00",55
+NGA,Nigeria,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","108,350,410.00",56
+NGA,Nigeria,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","108,432,971.00",56
+NIU,Niue,2022,Male,Census - de facto - complete tabulation,Provisional figure,827,
+NIU,Niue,2022,Female,Census - de facto - complete tabulation,Provisional figure,854,
+MKD,North Macedonia,2022,Male,Estimate - de jure,"Final figure, complete","911,015.00",
+MKD,North Macedonia,2022,Female,Estimate - de jure,"Final figure, complete","926,099.00",
+NOR,Norway,2022,Male,Estimate - de jure,"Final figure, complete","2,737,332.00",35
+NOR,Norway,2022,Female,Estimate - de jure,"Final figure, complete","2,687,938.00",35
+OMN,Oman,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","3,062,632.00","57,58"
+OMN,Oman,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","1,871,218.00","57,58"
+PAN,Panama,2022,Male,Estimate - de facto,"Final figure, complete","2,202,083.00",5
+PAN,Panama,2022,Female,Estimate - de facto,"Final figure, complete","2,193,331.00",5
+PRY,Paraguay,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","3,751,446.50",59
+PRY,Paraguay,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","3,702,248.28",59
+PER,Peru,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,569,707.00",60
+PER,Peru,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","16,826,991.00",60
+PHL,Philippines,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","56,319,285.00",29
+PHL,Philippines,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","55,252,969.00",29
+POL,Poland,2022,Male,Estimate - de jure,"Final figure, complete","18,210,293.00",35
+POL,Poland,2022,Female,Estimate - de jure,"Final figure, complete","19,443,954.00",35
+PRT,Portugal,2022,Male,Estimate - de jure,"Final figure, complete","4,923,101.00",
+PRT,Portugal,2022,Female,Estimate - de jure,"Final figure, complete","5,428,941.00",
+KOR,South Korea,2022,Male,Estimate - de jure,"Final figure, complete","25,790,370.00",13
+KOR,South Korea,2022,Female,Estimate - de jure,"Final figure, complete","25,719,107.50",39
+REU,Reunion,2022,Male,Estimate - de jure,Provisional figure,"413,939.00",
+REU,Reunion,2022,Female,Estimate - de jure,Provisional figure,"456,054.00",
+ROU,Romania,2022,Male,Estimate - de facto,Provisional figure,"9,239,811.00",35
+ROU,Romania,2022,Female,Estimate - de facto,Provisional figure,"9,802,644.00",35
+RWA,Rwanda,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","6,452,337.00",55
+RWA,Rwanda,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","6,799,935.00",55
+BLM,Saint Barthelemy,2022,Male,Estimate - de jure,Provisional figure,"5,060.00",
+BLM,Saint Barthelemy,2022,Female,Estimate - de jure,Provisional figure,"5,772.50",
+LCA,Saint Lucia,2022,Male,Estimate - de facto,"Final figure, complete","90,866.33",35
+LCA,Saint Lucia,2022,Female,Estimate - de facto,"Final figure, complete","92,384.22",35
+MAF,Saint Martin (French part),2022,Male,Estimate - de jure,Provisional figure,"13,761.00",
+MAF,Saint Martin (French part),2022,Female,Estimate - de jure,Provisional figure,"15,258.00",
+SAU,Saudi Arabia,2022,Male,Census - de jure - complete tabulation,"Final figure, complete","19,678,595.00",
+SAU,Saudi Arabia,2022,Female,Census - de jure - complete tabulation,"Final figure, complete","12,496,629.00",
+SEN,Senegal,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","8,825,227.00",13
+SEN,Senegal,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","8,913,568.00",13
+SRB,Serbia,2022,Male,Estimate - de jure,"Final figure, complete","3,308,035.00",62
+SRB,Serbia,2022,Female,Estimate - de jure,"Final figure, complete","3,489,070.00",62
+SLE,Sierra Leone,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","4,181,167.00",29
+SLE,Sierra Leone,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","4,313,093.00",29
+SGP,Singapore,2022,Male,Estimate - de jure,"Final figure, complete","2,890,541.00",63
+SGP,Singapore,2022,Female,Estimate - de jure,"Final figure, complete","2,083,027.00","64,65"
+SVK,Slovakia,2022,Male,Estimate - de jure,"Final figure, complete","2,657,903.00",35
+SVK,Slovakia,2022,Female,Estimate - de jure,"Final figure, complete","2,776,809.00",35
+SVN,Slovenia,2022,Male,Estimate - de jure,"Final figure, complete","1,057,695.00",
+SVN,Slovenia,2022,Female,Estimate - de jure,"Final figure, complete","1,049,485.00",
+SLB,Solomon Islands,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","367,801.00",66
+SLB,Solomon Islands,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","353,375.00",66
+ZAF,South Africa,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","29,624,882.00",4
+ZAF,South Africa,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","30,980,110.00",4
+ESP,Spain,2022,Male,Estimate - de jure,"Final figure, complete","23,237,152.00",39
+ESP,Spain,2022,Female,Estimate - de jure,"Final figure, complete","24,195,741.00",39
+LKA,Sri Lanka,2022,Male,Estimate - de jure,Provisional figure with questionable reliability,"10,739,520.00",
+LKA,Sri Lanka,2022,Female,Estimate - de jure,Provisional figure with questionable reliability,"11,441,467.00",
+PSE,Palestine,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","2,721,171.00",
+PSE,Palestine,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","2,633,485.00",
+SDN,Sudan,2022,Male,Estimate - de facto,"Final figure, complete","23,751,148.00",13
+SDN,Sudan,2022,Female,Estimate - de facto,"Final figure, complete","23,183,374.00",13
+SWE,Sweden,2022,Male,Estimate - de jure,"Final figure, complete","5,260,707.00","2,39"
+SWE,Sweden,2022,Female,Estimate - de jure,"Final figure, complete","5,191,619.00","2,39"
+THA,Thailand,2022,Male,Estimate - de jure,"Final figure, incomplete/questionable reliability","32,216,342.28",13
+THA,Thailand,2022,Female,Estimate - de jure,"Final figure, incomplete/questionable reliability","34,592,605.21",13
+TLS,Timor,2022,Male,Census - de jure - complete tabulation,Provisional figure,"678,087.00",
+TLS,Timor,2022,Female,Census - de jure - complete tabulation,Provisional figure,"662,347.00",
+TON,Tonga,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","48,447.80",
+TON,Tonga,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","51,636.80",
+UGA,Uganda,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","21,761,800.00",33
+UGA,Uganda,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","22,451,000.00",33
+UKR,Ukraine,2022,Male,Estimate - de jure,"Final figure, complete","19,006,979.00",68
+UKR,Ukraine,2022,Female,Estimate - de jure,"Final figure, complete","21,990,719.00",68
+TZA,Tanzania,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","30,051,820.00",55
+TZA,Tanzania,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","31,228,923.00",55
+USA,United States,2022,Male,Estimate - de jure,"Final figure, complete","165,283,553.00","4,46,69"
+USA,United States,2022,Female,Estimate - de jure,"Final figure, complete","168,004,004.00","4,46,69"
+URY,Uruguay,2022,Male,Estimate - de jure,"Final figure, complete","1,724,584.81",13
+URY,Uruguay,2022,Female,Estimate - de jure,"Final figure, complete","1,830,330.40",13
+UZB,Uzbekistan,2022,Male,Estimate - de jure,"Final figure, complete","17,936,369.00",46
+UZB,Uzbekistan,2022,Female,Estimate - de jure,"Final figure, complete","17,711,753.00",46
+VUT,Vanuatu,2022,Male,Estimate - de facto,"Final figure, incomplete/questionable reliability","158,733.00",48
+VUT,Vanuatu,2022,Female,Estimate - de facto,"Final figure, incomplete/questionable reliability","155,409.00",48
+VEN,Venezuela,2022,Male,Estimate - de facto,"Final figure, complete","16,714,971.00",
+VEN,Venezuela,2022,Female,Estimate - de facto,"Final figure, complete","16,645,267.00",
+VNM,Vietnam,2022,Male,Estimate - de jure,Provisional figure with questionable reliability,"49,607,292.00",4
+VNM,Vietnam,2022,Female,Estimate - de jure,Provisional figure with questionable reliability,"49,854,424.00",4
+ZWE,Zimbabwe,2022,Male,Census - de facto - complete tabulation,"Final figure, complete","7,287,922.00",
+ZWE,Zimbabwe,2022,Female,Census - de facto - complete tabulation,"Final figure, complete","7,891,035.00",
